@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 打开下方链接
-bilibili:[bilibili](https://space.bilibili.com/674720877)
+[点](https://www.bilibili.com/video/BV1diG1zBEzL?)

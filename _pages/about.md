@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hhhhhhhhhhhh"
+title: "请输入文本"
 author_profile: true
 redirect_from: 
   - /about/
